@@ -1,4 +1,4 @@
-* Specs: GA-Z77-D3H rev 1.0
+# Specs: GA-Z77-D3H rev 1.0
   - Supports 3rd Gen. Intel® 22nm CPUs and 2nd Gen. Intel® Core™ CPUs (LGA1155 socket).
 
   - GIGABYTE Digital Power Engine with GIGABYTE 3D Power.
@@ -21,5 +21,5 @@
 
   - GIGABYTE On/Off Charge™ for USB devices.
 
-* MOD:
+# MOD:
   - NVMe booting OS.
