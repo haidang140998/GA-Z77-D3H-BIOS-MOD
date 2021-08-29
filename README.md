@@ -23,3 +23,4 @@
 
 # MOD:
   - NVMe booting OS.
+  - logo boot: AUROS and AUROS WITH APPLE (hackintosh).
